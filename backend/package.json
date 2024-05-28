@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "\"Backend for cricreate\"",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supermarios77/Cricreate.git"
+  },
+  "author": "Mariya Baig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supermarios77/Cricreate/issues"
+  },
+  "homepage": "https://github.com/supermarios77/Cricreate#readme"
+}
