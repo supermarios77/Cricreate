@@ -1,3 +1,5 @@
+UPDATE CURRENTLY NOT WORKING ON THIS WILL BE RESUMED IN SEPTEMBER 2024
+
 ### Cricreate
 
 Welcome to the Cricreate! This project empowers users to create multi-colored, layered designs for Cricut machines using the power of AI.
